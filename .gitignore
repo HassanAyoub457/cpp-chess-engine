@@ -1,0 +1,10 @@
+/build/
+/out/
+/.idea/
+/.vscode/
+*.o
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.dSYM/
